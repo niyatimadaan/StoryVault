@@ -1,0 +1,35 @@
+.workDetailsContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .workHeader {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .workHeader h1 {
+    font-size: 2rem;
+  }
+  
+  .workBody {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .workInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .workInfo h3 {
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+  }
+  
+  .workInfo p {
+    font-size: 0.9rem;
+  }
+  
